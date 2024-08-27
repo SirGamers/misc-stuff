@@ -47,5 +47,5 @@ del Remainder_Spanish.bin
 echo Spanish deleted sucessfully
 del Remainder_Swedish.bin
 echo The script is done!
-echo If the game updates or you verify the game files, you will (most likly) have to run this script again
+echo If the game updates or you verify the game files, you will (most likely) have to run this script again
 pause
