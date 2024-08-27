@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -A Win32 -G "Visual Studio 17 2022" .. -DSDL2_INCLUDE_DIRS="C:\SDL2-2.30.6\include" -DSDL2_LIBRARIES="C:\SDL2-2.30.6\lib\x86\SDL2.lib;C:\SDL2-2.30.6\lib\x86\SDL2main.lib"
